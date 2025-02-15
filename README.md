@@ -21,3 +21,5 @@ The dataset contains a file named `Gaokao_R.json` in `./data/`, which includes t
     - Consistent answers are retained.
     - Answers that are consistent but incorrectly formatted are formatted.
 The specific procedures for data collection and preprocessing are demonstrated in the files located in `./src`.
+
+We also have [huggingface link](https://huggingface.co/datasets/Interstellar174/Gaokao-LLM-data)
