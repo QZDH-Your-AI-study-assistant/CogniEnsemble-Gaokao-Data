@@ -21,3 +21,5 @@ QZDH_Gaokao_Data数据集涵盖了2010-2022年中国高考的诸多真题以及�
     - 答案一致但格式不正确的进行格式化处理
 
 数据收集和预处理的程序具体已在文件`./src`中展示。
+
+我们也有[huggingface地址](https://huggingface.co/datasets/Interstellar174/Gaokao-LLM-data)
