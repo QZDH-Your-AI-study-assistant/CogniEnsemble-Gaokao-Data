@@ -1,10 +1,10 @@
-# QZDH_Gaokao_Data: Gaokao Past Paper Reasoning Dataset
+# CogniEnsemble-Gaokao-Data: Gaokao Past Paper Reasoning Dataset
 Chinese readme link is here: [简体中文](./README_zh.md)
 
-QZDH_Gaokao_Data is a dataset independently collected by the Qizhi Navigation Project, aimed at promoting the rapid development of AI education, assisting in the development of AI applications, and the construction of AI teacher models. The original intention of the team in building this dataset is to provide data support for the fine-tuning of models used by the team, and it is hoped that everyone can take and use it as needed.
+CogniEnsemble-Gaokao-Dataa is a dataset independently collected by the CogniGenius Project, aimed at promoting the rapid development of AI education, assisting in the development of AI applications, and the construction of AI teacher models. The original intention of the team in building this dataset is to provide data support for the fine-tuning of models used by the team, and it is hoped that everyone can take and use it as needed.
 
 ## Dataset Introduction
-The QZDH_Gaokao_Data dataset covers many past papers from the Chinese Gaokao exams between 2010 and 2022, along with their large model answers. The dataset includes 675 question-answer pairs, mainly covering the two science subjects of mathematics and physics.
+The CogniEnsemble-Gaokao-Data dataset covers many past papers from the Chinese Gaokao exams between 2010 and 2022, along with their LLM answers. The dataset includes 675 question-answer pairs, mainly covering the two science subjects of mathematics and physics.
 
 ## Dataset Structure
 The dataset contains a file named `Gaokao_R.json` in `./data/`, which includes the following fields:
